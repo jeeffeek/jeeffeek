@@ -10,6 +10,5 @@
   <a href="https://www.python.org/"><img align="center" alt="Jeeffee-Python" height="50" src="https://icongr.am/devicon/python-plain.svg?size=128&color=ffffff"></a> 
   <a href="https://www.postgresql.org/"><img align="center" alt="Jeeffee-PostgreSQL" height="50" src="https://icongr.am/devicon/postgresql-plain.svg?size=128&color=ffffff"></a> 
   <a href= "https://www.linux.org/"><img align="center" alt="Jeeffee-Linux" height="50" src="https://icongr.am/devicon/linux-plain.svg?size=128&color=ffffff"></a>
-  <img align="center" alt="Jeeffee-SQLServer" height="50" src="https://upload.wikimedia.org/wikipedia/de/8/8c/Microsoft_SQL_Server_Logo.svg">
 </div>
 
