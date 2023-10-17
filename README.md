@@ -11,4 +11,10 @@
   <img align="center" alt="Jeeffee-PostgreSQL" height="50" src="https://icongr.am/devicon/postgresql-plain.svg?size=128&color=ffffff">
   <img align="center" alt="Jeeffee-Linux" height="50" src="https://icongr.am/devicon/linux-plain.svg?size=128&color=ffffff">
 </div>
- 
+ <div>
+   <p align="center">
+    <a href="https://skillicons.dev">
+      <img src="https://skillicons.dev/icons?i=git,kubernetes,docker,c,vim" />
+    </a>
+  </p>
+ </div>
