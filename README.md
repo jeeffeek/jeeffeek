@@ -7,7 +7,7 @@
 </div>
 
 <div style=display: inline_block"><br>
-  <img align="center" alt="Jeeffee-Python" height="50" src="https://icongr.am/devicon/python-plain.svg?size=128&color=ffffff)https://icongr.am/devicon/python-plain.svg?size=128&color=ffffff">
+  <img align="center" alt="Jeeffee-Python" height="50" src="https://icongr.am/devicon/python-plain.svg?size=128&color=ffffff">
   <img align="center" alt="Jeeffee-PostgreSQL" height="50" src="https://icongr.am/devicon/postgresql-plain.svg?size=128&color=ffffff">
   <img align="center" alt="Jeeffee-Linux" height="50" src="https://icongr.am/devicon/linux-plain.svg?size=128&color=ffffff">
 </div>
