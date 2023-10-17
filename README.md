@@ -7,10 +7,8 @@
 </div>
 
 <div style=display: inline_block"><br>
-  <img align="center" alt="Jeeffee-Pandas" height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg">
-  <img align="center" alt="Jeeffee-PostgreSQL" height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg">
-  <img align="center" alt="Jeeffee-SqlServer" height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain-wordmark.svg">
-  <img align="center" alt="Jeeffee-Linux" height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg">
   <img align="center" alt="Jeeffee-Python" height="50" src="https://icongr.am/devicon/python-plain.svg?size=128&color=ffffff)https://icongr.am/devicon/python-plain.svg?size=128&color=ffffff">
+  <img align="center" alt="Jeeffee-PostgreSQL" height="50" src="https://icongr.am/devicon/postgresql-plain.svg?size=128&color=ffffff">
+  <img align="center" alt="Jeeffee-Linux" height="50" src="https://icongr.am/devicon/linux-plain.svg?size=128&color=ffffff">
 </div>
  
