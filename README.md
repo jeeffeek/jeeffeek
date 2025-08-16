@@ -9,11 +9,11 @@ I work with **Data Engineering, Data Analysis, and AI applied to data**, buildin
   <a href="https://www.linkedin.com/in/jefferson-knopf-0b007a111/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
 </div>
 
-<div style="display: inline_block"><br>
-  <a href="https://www.python.org/"><img align="center" alt="Python" height="50" src="https://icongr.am/devicon/python-plain.svg?size=128&color=ffffff"></a> 
-  <a href="https://www.postgresql.org/"><img align="center" alt="PostgreSQL" height="50" src="https://icongr.am/devicon/postgresql-plain.svg?size=128&color=ffffff"></a> 
-  <a href="https://www.linux.org/"><img align="center" alt="Linux" height="50" src="https://icongr.am/devicon/linux-plain.svg?size=128&color=ffffff"></a>
-  <a href="https://airflow.apache.org/"><img align="center" alt="Apache Airflow" height="50" src="https://icongr.am/devicon/apache-plain.svg?size=128&color=ffffff"></a>
-  <a href="https://powerbi.microsoft.com/"><img align="center" alt="Power BI" height="50" src="https://icongr.am/devicon/powerbi-plain.svg?size=128&color=ffffff"></a>
-  <a href="https://qlik.com/"><img align="center" alt="Qlik" height="50" src="https://icongr.am/devicon/qlik-plain.svg?size=128&color=ffffff"></a>
-</div>
+### Tecnologias & Ferramentas
+
+[![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://www.python.org/)
+[![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)](https://www.postgresql.org/)
+[![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)](https://www.linux.org/)
+[![Apache Airflow](https://img.shields.io/badge/Apache_Airflow-017CEE?style=for-the-badge&logo=apache-airflow&logoColor=white)](https://airflow.apache.org/)
+[![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=microsoft-power-bi&logoColor=black)](https://powerbi.microsoft.com/)
+[![Qlik](https://img.shields.io/badge/Qlik-52B3D9?style=for-the-badge&logo=qlik&logoColor=white)](https://qlik.com/)
